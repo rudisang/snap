@@ -1,0 +1,1 @@
+import{_ as o,r as n,c as r,b as a,w as s,d as e,a as c,o as l}from"./entry.b399a588.js";const _={},d=c("br",null,null,-1);function u(i,f){const t=n("router-link");return l(),r("div",null,[a(t,{to:"/",class:"btn btn-dark fw-bold mb-2"},{default:s(()=>[e("Get Started")]),_:1}),e(),d])}const b=o(_,[["render",u]]);export{b as default};
